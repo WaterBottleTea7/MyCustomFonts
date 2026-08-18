@@ -1,0 +1,1 @@
+The font files in this repository are used under a valid Webfont License purchased by the owner. They are hosted strictly for personal web application styling and are not licensed for public redistribution or download."
